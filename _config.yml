@@ -1,7 +1,8 @@
 title: 
 description: The extensive documentation for contributing to the CSArtisan post repository.
-theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
+# theme: just-the-docs
+
 favicon_ico: "/assets/favicon.ico"
 
 url: https://csartisan.github.io/
