@@ -1,0 +1,30 @@
+title: 
+description: The extensive documentation for contributing to the CSArtisan post repository.
+# remote_theme: pmarsceill/just-the-docs
+theme: just-the-docs
+
+favicon_ico: "/assets/favicon.ico"
+
+url: https://csartisan.github.io/
+baseurl: 
+logo: "assets/img/logo.png"
+
+aux_links:
+  Production: https://csartisan.github.io
+  Github: https://github.com/csartisan
+
+color_scheme: dark
+
+callouts:
+  danger:
+    title: Warning!
+    color: red
+  developers:
+    title: Contributors
+    color: blue
+  important:
+    title: 
+    color: yellow
+  next:
+    title: 
+    color: green
