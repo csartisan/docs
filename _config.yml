@@ -1,8 +1,28 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: 
+description: The extensive documentation for contributing to the CSArtisan post repository.
 theme: just-the-docs
+favicon_ico: "/assets/favicon.ico"
 
-url: https://just-the-docs.github.io
+url: https://csartisan.github.io/
+baseurl: 
+logo: "assets/img/logo.png"
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Production: https://csartisan.github.io
+  Github: https://github.com/csartisan
+
+color_scheme: dark
+
+callouts:
+  danger:
+    title: Warning!
+    color: red
+  developers:
+    title: Contributors
+    color: blue
+  important:
+    title: 
+    color: yellow
+  next:
+    title: 
+    color: green
