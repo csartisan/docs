@@ -31,7 +31,10 @@ __All software linked is completely safe to use.__
 
 __Easy__ is recommended for editors with little to no experience in most referenced technologies. This is the recommended path for most contributors.  
   
-[Continue with Easy Guide](./docs/getting-started/){: .btn .btn-green }
+[Continue with Getting Started](./docs/getting-started/){: .btn .btn-green }
+
+{: .next }
+Already set up and ready to contribute? Continue to [Contributing](/docs/contributing/index.md)
 
 __Advanced__ is for those who need specifics, either for troubleshooting or clarifying. This is not a step-by-step guide and requires prior knowledge of how to use Jekyll.
 

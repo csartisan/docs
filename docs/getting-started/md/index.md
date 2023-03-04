@@ -25,7 +25,7 @@ Some great CSArtisan articles that use frequent Markdown formatting are [Intervi
 
 #### Flavor
 
-Every platform uses different tools to display Markdown. Editors that have distinct pairings of tools are described with different "flavors" of Markdown. It is important to pick an editor with a similar flavor to that of our website because you may not have the same formatting support from either. Here at the Artisan, we use "Jekyll Flavored" Markdown. You'll learn what that means in a little bit, so don't worry about it right now.
+Every platform uses different tools to display Markdown. Editors that have distinct pairings of tools are described with different "flavors" of Markdown. Basically, they are like regional dialects. It is important to pick an editor with a similar flavor to that of our website because you may not have the same formatting support from either. Here at the Artisan, we use "Jekyll Flavored" Markdown. You'll learn what that means in a little bit, so don't worry about it right now.
 
 ## Choosing a Markdown Editor
 
@@ -38,7 +38,7 @@ Dillinger is the recommended choice for all beginners looking to learn Markdown.
 
 |Pros |Cons |
 |-----|-----|
-Easy to import/export         |  "Flavor" doesn't match csartisan.org's (see [Flavor](md-editors.html#flavor))
+Easy to import/export         |  "Flavor" doesn't match csartisan.org's (see [Flavor](index#flavor))
 Cloud-based                   |  
 No prior experience required  |  
 
