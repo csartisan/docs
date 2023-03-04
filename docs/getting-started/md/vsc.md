@@ -25,4 +25,4 @@ Frequently Updated     |  Difficult to learn
 Large Plug-in Library  |  Requires previous computer knowledge
 Lightweight            |  Can look cluttered and overwhelming
 
-## Using Visual Studio Code to write in Markdown
+## Installing Visual Studio Code
