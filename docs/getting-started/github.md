@@ -37,4 +37,4 @@ Git is a command line tool that is necessary for using GitHub Desktop. If you do
 Once Git has been successfully installed, you're ready to start using GitHub Desktop.
 
 {: .next }
-Proceed to [Choosing a Markdown Editor](./md-editors.md)
+Proceed to [Markdown Editors](md/md-editors.html)

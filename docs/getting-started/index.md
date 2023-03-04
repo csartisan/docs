@@ -20,4 +20,4 @@ This section will:
 - Choose your Markdown Editor
 
 {: .next } 
-Continue to setting up [Github](./github)
+Continue to [setting up Github](github.html)
