@@ -64,4 +64,4 @@ These paths are the default. The rest of the guide uses these paths, so move the
 Making changes to these folders won't change the website just yet, but it is recommended not to change anything right now.
 
 {: .next }
-Proceed to [Markdown Editors](md/md-editors.html)
+Proceed to [Markdown Editors](md/)
