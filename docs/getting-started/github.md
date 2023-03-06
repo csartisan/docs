@@ -59,12 +59,23 @@ Once Git has been successfully installed, you're ready to start using GitHub Des
 
 In GitHub, cloning refers to downloading a local copy of a repository. With this clone you will upload your fully formatted posts and "push" them- or sync them, using GitHub Desktop.
 
+#### macOS
+
 1. Open Github Desktop
 2. Click "Current Repository" dropdown button in top-left corner,
 3. Click "Add" dropdown button,
 4. Select "Clone Repository...",
 5. Select "URL" from top navigation bar,
-6. Paste `https://github.com/csartisan/csartisan.github.io/tree/beta` in input space.
+6. Paste `https://github.com/csartisan/csartisan.github.io/` in the input space.
+    - If this gives a red error that says "This folder already contains files...", the repository has already been cloned onto your device and you can continue.
+
+#### Windows
+
+1. Open Github Desktop
+2. Click "Current Repository" dropdown button in top-left corner,
+4. Select "Clone a repository from the internet...",
+5. Select "URL" from top navigation bar,
+6. Paste `https://github.com/csartisan/csartisan.github.io/` in the input space.
     - If this gives a red error that says "This folder already contains files...", the repository has already been cloned onto your device and you can continue.
 
 Congratulations! You have created a local version of the website on your device. 
@@ -75,7 +86,7 @@ Accessing the files is easy. In a file explorer such as Finder, go to the follow
 
 |macOS|Windows|
 |---|---|
-|`/Users/[USERNAME]/github/csartisan.github.io/` | `C:\Users\[USERNAME]\github\csartisan.github.io\` |
+|`/Users/[USERNAME]/Documents/GitHub/csartisan.github.io/` | `- C:\Users\[USERNAME]\Documents\GitHub\csartisan.github.io` |
 
 {: .important }
 These paths are the default. The rest of the guide uses these paths, so move them at your own risk.
