@@ -111,9 +111,9 @@ If you are transferring old csartisan.wordpress.com posts, the date of the artic
 |`imagecred:` |Credit to image source, in quotation marks. If none, leave __completely blank__, no quotation marks. | `"Kathryn Mueller"`
 |`tags:`  |This should only be edited by a head editor, it defines a post's location on the main page. Leave blank unless instructed otherwise. | `[ ]`
 
-## Exporting from Dillinger
+## Exporting
 
-Exporting is even easier than importing. 
+Exporting from Dillinger is even easier than importing. 
 
 1. Ensure that your document is finished and follow the rules from [Contributing](dillinger#contributing),
 2. Select `Export As ↓` button in the upper-right of Dillinger,
