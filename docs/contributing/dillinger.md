@@ -19,16 +19,15 @@ It is highly recommended to use the template post (`template.md`) instead of wri
 {: .danger }
 DO NOT import from GitHub. Although this seems like the most straightforward path, Dillinger doesn't have the right permissions and can give unwanted results.
 
-Congratulations, you've set the stage for contributing. Now all that is left is to import your article, metadata, and submitting!
+Congratulations, you've set the stage for contributing. Now all that is left is to import your article, metadata, and submit!
 
-{: .next }
-Continue to [Contributing](/docs/contributing/dillinger).
+## Contributing
 
 ## Exporting from Dillinger
 
 Exporting is even easier than importing. 
 
-1. Ensure that your document is finished and follow the rules from [Contributing](/docs/contributing/),
+1. Ensure that your document is finished and follow the rules from [Contributing](dillinger#contributing),
 2. Select `Export As ↓` button in the upper-right of Dillinger,
 3. Select `Markdown`,
 4. Save file to `/Documents/GitHub/csartisan.github.io/_posts/template.md`, being sure not to change to name of it whilst saving.
@@ -36,4 +35,4 @@ Exporting is even easier than importing.
 Congratulations! Your post is now in your local copy of the club website. Now onto the final step, getting your post checked and added to the website.
 
 {: .next }
-Continue to [Finalizing](/docs/contributing/finalizing).
+Continue to [Finalizing](finalizing/).
