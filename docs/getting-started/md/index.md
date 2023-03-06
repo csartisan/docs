@@ -35,7 +35,7 @@ The rest of this guide is made to guide you through using Dillinger.
 |Pros |Cons |
 |-----|-----|
 Very easy to import/export    |  "Flavor" doesn't match csartisan.org's (see [Flavor](index#flavor))
-Web-based                   |  
+Web-based                     |  
 No prior experience required  |  
 
 {: .next }
