@@ -47,13 +47,11 @@ You can install GitHub Desktop on any supported operating system.
 
 To install GitHub Desktop, navigate to [https://desktop.github.com/](https://desktop.github.com/) and download the appropriate version of GitHub Desktop for your operating system. Follow the prompts to complete the installation. For troubleshooting, see [Installing GitHub Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop).
 
-When it has finished installing, open it and authenticate your GitHub account, this is to allow you to edit repositories that you are permitted to edit.
+When it has finished installing, open it and authenticate your GitHub account.
 
-### Installing Git
+##### Installing Git (Optional)
 
-Git is a command line tool that is necessary for using GitHub Desktop. If you do not already have Git installed, you can download and install the latest version of Git from https://git-scm.com/downloads.
-
-Once Git has been successfully installed, you're ready to start using GitHub Desktop.
+Git is a command line tool that is used GitHub Desktop. If you do not already have Git installed, you can download and install the latest version of Git from https://git-scm.com/downloads.
 
 ## Cloning the website
 
