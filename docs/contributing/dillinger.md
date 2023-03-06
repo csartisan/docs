@@ -8,6 +8,11 @@ nav_order: 1
 
 # Contributing with Dillinger
 
+{: .danger }
+>This section of the guide covers contributing with Dillinger specifically. 
+>
+>See [Contributing with Visual Studio Code](vsc/) if you are in use of VSC, or [Contributing](./contributing/) for everything else.
+
 ### Importing `template.md` to Dillinger
 
 It is highly recommended to use the template post (`template.md`) instead of writing all the tough stuff all by yourself.
@@ -22,6 +27,8 @@ DO NOT import from GitHub. Although this seems like the most straightforward pat
 Congratulations, you've set the stage for contributing. Now all that is left is to import your article, metadata, and submit!
 
 ## Contributing
+
+
 
 ## Exporting from Dillinger
 
