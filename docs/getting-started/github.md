@@ -78,7 +78,7 @@ In GitHub, cloning refers to downloading a local copy of a repository. With this
 
 Congratulations! You have created a local version of the website on your device. 
 
-###### How to find your local repository
+##### How to find your local repository
 
 Accessing the files is easy. In a file explorer such as Finder, go to the following file path that corresponds to your operating system. Where `[USERNAME]` is the username of your current profile.
 
