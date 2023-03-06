@@ -6,7 +6,7 @@ has_children: no
 nav_order: 1
 ---
 
-# Dillinger
+# Contributing with Dillinger
 
 ### Importing `template.md` to Dillinger
 
