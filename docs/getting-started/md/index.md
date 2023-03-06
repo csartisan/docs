@@ -28,14 +28,14 @@ Every platform uses different tools to display Markdown. Editors that have disti
 Editing Markdown can be done with any plain-old text editor, but an editor that is made specifically for Markdown will do you much better in the long-run. There are many options out there, so it can be overwhelming. Because of this, we have picked out the best editor for you to use for contributing, Dillinger!
 
 ## Dillinger
-[Dillinger](https://dillinger.io) is a web-based, cloud-enabled platform for editing, previewing, and exporting Markdown. It can export into Dropbox, Google Drive, and even GitHub.
+[Dillinger](https://dillinger.io) is a web-based, cloud-enabled platform for editing, previewing, and exporting Markdown. It can export into Dropbox, Google Drive, and even GitHub. Its ease of editing and previewing makes it the perfect tool for any beginner or expert. 
 
 The rest of this guide is made to guide you through using Dillinger.
 
 |Pros |Cons |
 |-----|-----|
-Easy to import/export         |  "Flavor" doesn't match csartisan.org's (see [Flavor](index#flavor))
-Cloud-based                   |  
+Very easy to import/export    |  "Flavor" doesn't match csartisan.org's (see [Flavor](index#flavor))
+Web-based                   |  
 No prior experience required  |  
 
 {: .next }
