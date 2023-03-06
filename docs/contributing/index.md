@@ -15,23 +15,6 @@ This section of the guide has specific instructions based on the interface of [D
 ## Required Reading
 
 This section will briefly touch on important vocabulary important to know before contributing. Some terms will have a link to more info on them, and all terms will be included in the site [Glossary](/docs/glossary/). 
-__EVERY POST NEEDS AN IMAGE__.
-
-This is the biggest rule in this guide. Every post requires a corresponding image.
-
-Most new articles should have an image supplied to you by the editor, and many old articles have an accompanying photo. Great, now how do we use those?
-
-#### Importing an image
-- This may seem tedious, but every image must be 800x600px in size. This is to ensure every image slot is of an equal size when it is published to the site. Trust us, it looks great. This can be done with a photo editor, but if you cannot do it, send it to club IT and we would be happy to format it for you.
-- Make sure the image is a `.jpg` or `.jpeg` file. This is to save digital space. Your changes will not be accepted if the image isn't a JPG/JPEG. Feel free to convert another image type to a JPG/JPEG, as long as it reaches us as one you're good to go.
-- Take the image and move it to `/Documents/GitHub/csartisan.github.io/assets/images/posts`.
-- Rename it to the title of the corresponding post. (ex. `art-therapy.jpg`)
-You will use this image name in a little bit.
-
-#### What if I don't have an image?
-No problem. The website already has 10 filler images for posts with no images.
-
-Every file is numbered from 1-10. So to use them, enter the following in the `image:` tag in your Front Matter: 
 
 ### Front Matter
 Front Matter acts like metadata leading every post. This is essential to the post being correctly rendered on the website. It is lead and trailed by three dashes `---`. This is to separate it from the rest of the text and hide it from being rendered. Front Matter contains information that the website uses to fill out things like title, author name, category, and more.
@@ -50,7 +33,7 @@ Most new articles should have an image supplied to you by the editor, and many o
 
 #### Importing an image
 - This may seem tedious, but every image must be 800x600px in size. This is to ensure every image slot is of an equal size when it is published to the site. Trust us, it looks great. This can be done with a photo editor, but if you cannot do it, send it to club IT and we would be happy to format it for you.
-- Make sure the image is a `.jpg` or `.jpeg` file. This is to save digital space. Your changes will not be accepted if the image isn't a JPG/JPEG. Feel free to convert another image type to a JPG/JPEG, as long as it reaches us as one you're good to go.
+- Make sure the image is a `.jpg` or `.jpeg` file. This is to save server storage. Your changes will not be accepted if the image isn't a JPG/JPEG. Feel free to convert another image type to a JPG/JPEG, as long as it reaches us as one you're good to go.
 - Take the image and move it to `/Documents/GitHub/csartisan.github.io/assets/images/posts`.
 - Rename it to the title of the corresponding post. (ex. `art-therapy.jpg`)
 You will use this image name in a little bit.
@@ -123,4 +106,4 @@ Exporting from Dillinger is even easier than importing.
 Congratulations! Your post is now in your local copy of the club website. Now onto the final step, getting your post checked and added to the website.
 
 {: .next }
-Continue to [Finalizing](finalizing/).
+Continue to [Finalizing](/docs/finalizing/).
