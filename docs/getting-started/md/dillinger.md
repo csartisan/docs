@@ -18,3 +18,10 @@ Dillinger is the recommended choice for all beginners looking to learn Markdown.
 Easy to import/export         |  "Flavor" doesn't match csartisan.org's (see [Flavor](index#flavor))
 Cloud-based                   |  
 No prior experience required  |  
+
+## Getting started with Dillinger
+
+Dillinger does not require an account to use. Simply go to [https://dillinger.io](https://dillinger.io) to begin.
+
+{: .next }
+Continue to [Contributing with Dillinger](/docs/contributing/dillinger.md)

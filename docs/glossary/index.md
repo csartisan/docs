@@ -15,7 +15,7 @@ Alphabetically, every uncommon term, its definition, aliases, and more.
 |Brand Guidelines |a collection of rules defining the visual and textual tone that guide all content related to a brand.||
 |command line |a classic text interface for your computer.|terminal|
 |contributor |a club member that edits and adds to the website.|Editor (GitHub)|
-|[csartisan.org](https://csartisan.github.io) |The club website.||
+|csartisan.org |the club website.||[Go...](https://csartisan.github.io)
 |Dillinger |a web-based Markdown editor.||
 |drop quotes |large quotation marks prepending a long quote in an article.||
 

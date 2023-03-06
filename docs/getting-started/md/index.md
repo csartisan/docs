@@ -48,8 +48,8 @@ Continue in [Dillinger](dillinger.html) _(recommended)_
 ### Visual Studio Code
 [Visual Studio Code](https://visualstudio.microsoft.com/#vscode-section) is an open-source, free-to-use product from Microsoft. It can be used for all kinds of code editing.
 
-![This website being edited in VSC](/assets/img/vsc_markdown.png)
-###### (above) This site being edited in Visual Studio Code
+![](/assets/img/vsc_markdown.png)
+###### (above) An early version of this site being edited in Visual Studio Code.
 
 {: .danger }
 This application is only recommended for those who have experience in writing Markdown. It is NOT a basic, minimalist experience and you should only use it once you feel comfortable editing with it.
