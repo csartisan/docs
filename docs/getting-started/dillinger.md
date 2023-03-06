@@ -1,10 +1,9 @@
 ---
 title: Dillinger
 layout: default
-parent: Markdown Editors
-grand_parent: Getting Started
+parent: Getting Started
 has_children: no
-nav_order: 1
+nav_order: 3
 ---
 
 # Dillinger

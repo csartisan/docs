@@ -3,7 +3,7 @@ title: GitHub
 layout: default
 parent: Getting Started
 has_children: no
-
+nav_order: 1
 ---
 # GitHub
 
@@ -94,4 +94,4 @@ These paths are the default. The rest of the guide uses these paths, so move the
 Making changes to these folders won't change the website just yet, but it is recommended not to change anything right now.
 
 {: .next }
-Proceed to [Markdown Editors](md/)
+Continue to [Markdown](md/)

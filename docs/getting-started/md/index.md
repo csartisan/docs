@@ -1,15 +1,11 @@
 ---
-title: Markdown Editors
+title: Markdown
 layout: default
 parent: Getting Started
-has_children: yes
-
+has_children: no
+nav_order: 2
 ---
-# Markdown Editors
-
-In this section, you will choose your Markdown editor of choice.
-
-### What is Markdown?
+# What is Markdown?
 
 Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. 
 
@@ -25,16 +21,12 @@ Some great CSArtisan articles that use frequent Markdown formatting are [Intervi
 
 #### Flavor
 
-Every platform uses different tools to display Markdown. Editors that have distinct pairings of tools are described with different "flavors" of Markdown. Basically, they are like regional dialects. It is important to pick an editor with a similar flavor to that of our website because you may not have the same formatting support from either. Here at the Artisan, we use "Jekyll Flavored" Markdown. You'll learn what that means in a little bit, so don't worry about it right now.
+Every platform uses different tools to display Markdown. Editors that have distinct pairings of tools are described with different "flavors" of Markdown. Basically, they are like regional dialects. Here at the Artisan, we use "Jekyll Flavored" Markdown. You'll learn what that means in a little bit, so don't worry about it right now.
 
-## Choosing a Markdown Editor
-
-First, let's pick an editor. Each option has a list of pros and cons that will help you decide which to learn with. Once you select one, you can start learning how to write in Markdown. 
-
-### Dillinger
+## Dillinger
 [Dillinger](https://dillinger.io) is a web-based, cloud-enabled platform for editing, previewing, and exporting Markdown. It can export into Dropbox, Google Drive, and even GitHub.
 
-Dillinger is the recommended choice for all beginners looking to learn Markdown.
+The rest of this guide is made to guide you through using Dillinger.
 
 |Pros |Cons |
 |-----|-----|
@@ -43,22 +35,4 @@ Cloud-based                   |
 No prior experience required  |  
 
 {: .next }
-Continue in [Dillinger](dillinger.html) _(recommended)_
-
-### Visual Studio Code
-[Visual Studio Code](https://visualstudio.microsoft.com/#vscode-section) is an open-source, free-to-use product from Microsoft. It can be used for all kinds of code editing.
-
-![](/assets/img/vsc_markdown.png)
-###### (above) An early version of this site being edited in Visual Studio Code.
-
-{: .danger }
-This application is only recommended for those who have experience in writing Markdown. It is NOT a basic, minimalist experience and you should only use it once you feel comfortable editing with it.
-
-|Pros |Cons |
-|-----|-----|
-Frequently Updated     |  Difficult to learn
-Large Plug-in Library  |  Requires previous computer knowledge
-Lightweight            |  Can look cluttered and overwhelming
-
-{: .next }
-Continue in [Visual Studio Code](vsc.html)
+Continue to [Dillinger](/docs/getting-started/dillinger.html) 
