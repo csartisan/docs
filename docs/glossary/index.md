@@ -6,6 +6,9 @@ nav_order: 999
 
 # Glossary
 
+{: .danger }
+This section of the guide is unfinished.
+
 Alphabetically, every uncommon term, its definition, aliases, and more.
 
 # A-D
@@ -30,7 +33,7 @@ Alphabetically, every uncommon term, its definition, aliases, and more.
 |Git |a distributed version control system that tracks changes in any set of computer files.||
 |GitHub |an Internet hosting service for software development and version control using Git.||[Website](https://github.com)
 |GitHub Desktop |(see GitHub)||[Download](https://desktop.github.com)
-|Jekyll |a static site generator that reads Markdown.||This is what CSArtisan uses.
+|image source |the path to your image in the server.|image path |Typically `/assets/images/posts/post-name.jpg`|
 
 # L-P
 
@@ -54,5 +57,4 @@ Alphabetically, every uncommon term, its definition, aliases, and more.
 |Term|Definition|Aliases|Notes|
 |---|---|---|
 |version control |the task of keeping a software system consisting of many versions and configurations well organized.|versioning|
-|Visual Studio Code|a lightweight but powerful source code editor|VSC, vscode.dev, Visual Studio|[Website](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiZwcz5nsP9AhURSjABHY64CGgQFnoECA8QAQ&url=https%3A%2F%2Fcode.visualstudio.com%2F&usg=AOvVaw15O90sm1ios8AUpw56hCml)
 |WYSIWYG |an acronym for "what you see is what you get." Refers to a type of editing software that allows users to see and edit content in a form that appears as it would when displayed on an interface, webpage, slide presentation or printed document.||
