@@ -7,7 +7,7 @@ nav_order: 3
 
 # Contributing
 
-{: .danger }
+{: .important }
 This section of the guide has specific instructions based off of the interface of [Dillinger](https://dillinger.io).
 
 ### Starting a new file
