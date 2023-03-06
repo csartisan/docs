@@ -23,6 +23,10 @@ Some great CSArtisan articles that use frequent Markdown formatting are [Intervi
 
 Every platform uses different tools to display Markdown. Editors that have distinct pairings of tools are described with different "flavors" of Markdown. Basically, they are like regional dialects. Here at the Artisan, we use "Jekyll Flavored" Markdown. You'll learn what that means in a little bit, so don't worry about it right now.
 
+### What can I edit Markdown with?
+
+Editing Markdown can be done with any plain-old text editor, but an editor that is made specifically for Markdown will do you much better in the long-run. There are many options out there, so it can be overwhelming. Because of this, we have picked out the best editor for you to use for contributing, Dillinger!
+
 ## Dillinger
 [Dillinger](https://dillinger.io) is a web-based, cloud-enabled platform for editing, previewing, and exporting Markdown. It can export into Dropbox, Google Drive, and even GitHub.
 
