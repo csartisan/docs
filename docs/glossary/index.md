@@ -33,7 +33,7 @@ Alphabetically, every uncommon term, its definition, aliases, and more.
 |Git |a distributed version control system that tracks changes in any set of computer files.||
 |GitHub |an Internet hosting service for software development and version control using Git.||[Website](https://github.com)
 |GitHub Desktop |(see GitHub)||[Download](https://desktop.github.com)
-|Jekyll |a static site generator that reads Markdown.||This is what CSArtisan uses.
+|image source |the path to your image in the server.|image path |Typically `/assets/images/posts/post-name.jpg`|
 
 # L-P
 
