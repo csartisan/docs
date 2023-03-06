@@ -6,6 +6,9 @@ nav_order: 999
 
 # Glossary
 
+{: .danger }
+This section of the guide is unfinished.
+
 Alphabetically, every uncommon term, its definition, aliases, and more.
 
 # A-D
