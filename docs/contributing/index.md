@@ -90,7 +90,7 @@ Every post must use the following format:
 
 `YEAR-MONTH-DAY-title.md`
 
-Where `YEAR` is a four-digit number (i.e. 2023), `MONTH` and `DAY` are two-digit numbers. `title` is where the title of your article will go. This isn't the title that will be seen on the website, instead, it is the title that appears in the URL (ex. csartisan.github.io/art-therapy/). Try to keep this as close to the actual title as possible.
+Where `YEAR` is a four-digit number (i.e. 2023), `MONTH` and `DAY` are two-digit numbers. `title` is where the title of your article will go. This isn't the title that will be seen on the website, instead, it is the title that appears in the URL (ex. `csartisan.github.io/art-therapy/`). Try to keep this as close to the actual title as possible.
 
 Ex: `2022-12-16-art-therapy.md`
 
