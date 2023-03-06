@@ -109,7 +109,7 @@ If you are transferring old csartisan.wordpress.com posts, the date of the artic
 |`categories:` | The category your post will be in, between [brackets]. If the category is unapparent, use `[ misc ]`. See "Categories" for all available categories. | `[ misc ]` |
 |`image:` |The full path to your article's image. See "[Images](index#images)" for more info.| `./assets/images/posts/none/1.jpg`
 |`imagecred:` |Credit to image source, in quotation marks. If none, leave __completely blank__, no quotation marks. | `"Kathryn Mueller"`
-|`tags:`  |Either `[ sticky ]`, `[ featured ]` or if none, leave __completely blank__. See "Tags" for usage info. | `[ sticky ]`
+|`tags:`  |This should only be edited by a head editor, it defines a post's location on the main page. Leave blank unless instructed otherwise. | `[ ]`
 
 ## Exporting from Dillinger
 
