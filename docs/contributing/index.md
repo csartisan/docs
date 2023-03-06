@@ -8,13 +8,11 @@ nav_order: 3
 # Contributing
 
 {: .danger }
->This section of the guide acts as a guideline for all contributions done without Dillinger or Visual Studio Code. If you use either one of these, there are better, more specific guides to contributing with those applications. 
->
->See either [Contributing with Dillinger](dillinger/) or [Contributing with Visual Studio Code](vsc/) depending on your application of choice.
+This section of the guide has specific instructions based off of the interface of [Dillinger](https://dillinger.io).
 
-### Importing `template.md` to Dillinger
+### Starting a new file
 
-It is highly recommended to use the template post (`template.md`) instead of writing all the tough stuff all by yourself.
+It is highly recommended to use the template post (`template.md`) instead of writing all the Front Matter all by yourself.
 
 1. Select `Import From ↓` dropdown button in the upper-right corner of Dillinger,
 2. Select `Markdown File`, this will open a file select menu,
