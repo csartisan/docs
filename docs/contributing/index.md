@@ -124,6 +124,63 @@ If you are transferring old csartisan.wordpress.com posts, the date of the artic
 |`imagecred:` |Credit to image source, in quotation marks. If none, leave __completely blank__, no quotation marks. | `"Kathryn Mueller"`
 |`tags:`  |This should only be edited by a head editor, it defines a post's location on the main page. Leave blank unless instructed otherwise. See ["Tags"](index#tags)| `[ ]`
 
+## Content Guidelines
+
+This is a very important step. Although many things may be up to personal interpretation, these guidelines will instruct choices that you will have to make when formatting new articles. 
+
+### Section 1 - Importants
+
+#### 1.1
+Do not edit any original content in the article.
+
+#### 1.2
+Keep the general structure of the article.
+
+#### 1.3
+Fulfill all required [Front Matter](index#adding-to-the-front-matter).
+
+#### 1.4
+Add an image that correctly represents the article.
+
+#### 1.5
+Keep all file names relative to the article title.
+
+#### 1.5
+Do not indent paragraphs.  
+
+### Section 2 - Markdown Formatting
+
+#### 2.1
+Keep all paragraphs in body form. (Unformatted)
+
+#### 2.2
+Separate new paragraphs by a full line break. Markdown doesn't make new paragraphs unless they are separated by a full line break. See below.
+
+![](/assets/img/markdownlinebreakartisan.png)
+
+#### 2.3 
+Interviews from the WordPress with questions as headers should use `h3` headers.
+
+#### 2.4
+Remove every __first__ quotation mark from a quote and replace them with a `>`. See below.
+
+<div class="code-example" markdown="1">
+
+> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
+
+</div>
+```markdown
+> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+```
+This will render on the website as a large drop quotation. See below.
+
+![](/assets/img/dropquoteartisan.png)
+
+#### 2.5
+Do not add credits to the author at the end of the article. This is done automatically by the website from the Front Matter.
+
+***
+
 ## Exporting
 
 Exporting from Dillinger is even easier than importing. 
