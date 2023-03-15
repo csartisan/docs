@@ -16,9 +16,25 @@ GitHub uses a unique form of version control where users will create [pull reque
 
 ### Commits
 
+Similar to saving a file that's been edited, a commit records changes to one or more files in your branch. Git assigns each commit a unique ID, called a SHA or hash, that identifies:
+
+- The specific changes
+- When the changes were made
+- Who created the changes
+
+When you make a commit, you must include a commit message that briefly describes the changes.
+
+See [Commits](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) for more info.
+
 ### Branches
 
+Branches allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository. The website is loaded based on the `main` branch and all developer changes are first made to the `staging` branch. 
+
 ### Pull Requests
+
+Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch. Once you've created a pull request, you can push commits from your topic branch to add them to your existing pull request. Other contributors can review your proposed changes, add review comments, contribute to the pull request discussion, and even add commits to the pull request.
+
+See [Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) for more info.
 
 ## Submitting changes
 
