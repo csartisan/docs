@@ -6,9 +6,6 @@ nav_order: 999
 
 # Glossary
 
-{: .danger }
-This section of the guide is unfinished.
-
 Alphabetically, every uncommon term, its definition, aliases, and more.
 
 # A-D
@@ -42,12 +39,15 @@ Alphabetically, every uncommon term, its definition, aliases, and more.
 |lightweight |a computer program that is designed to have a small memory footprint and low CPU usage, overall a low usage of system resources.||
 |Markdown |a lightweight markup language that you can use to add formatting elements to plaintext text documents.||see [Markdown](/docs/Advanced/md.md)
 |operating system |the software that supports a computer's basic functions, such as scheduling tasks, executing applications, and controlling peripherals.|platform|ex. macOS, Windows, Linux
+|production |the working version of a site presented publicly. |stable, prod||
 
 # Q-U
 
 |Term|Definition|Aliases|Notes|
 |---|---|---|
 |repository |contains all of your project's files and each file's revision history.|repo|see [About Repositories](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwimm6-InsP9AhVtjLAFHeBPDjkQFnoECAsQAQ&url=https%3A%2F%2Fdocs.github.com%2Fen%2Frepositories%2Fcreating-and-managing-repositories%2Fabout-repositories&usg=AOvVaw1A5MgTpqB5FtYvuWsxLwjL) (GitHub)
+|root directory |the top level of the file system of your project.|root||
+|staging site |a temporary, non-official location for all of your changes. |nightly | See "[Production](index#l-p)"
 |subheaders |a heading of a subdivision (as in an outline)||
 |syntax |a concept in writing code dealing with a very specific set of words and a very specific order to those words when we give the computer instructions.||
 |text file |a kind of computer file that is structured as a sequence of lines of electronic text.|`.txt`|
