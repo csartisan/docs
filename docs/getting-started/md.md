@@ -39,4 +39,4 @@ Web-based                     |
 No prior experience required  |  
 
 {: .next }
-Continue to [Dillinger]({{baseurl}}/docs/getting-started/dillinger) 
+Continue to [Dillinger](dillinger) 

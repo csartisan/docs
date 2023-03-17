@@ -22,4 +22,4 @@ This section will introduce you to:
 - Dillinger
 
 {: .next } 
-Continue to [Setting up GitHub](github.html)
+Continue to [Setting up GitHub](github)
