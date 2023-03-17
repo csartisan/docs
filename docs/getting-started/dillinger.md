@@ -23,4 +23,4 @@ No prior experience required  |
 Dillinger does not require an account to use. Simply go to [https://dillinger.io](https://dillinger.io) to begin.
 
 {: .next }
-Continue to [Contributing with Dillinger](/docs/contributing)
+Continue to [Contributing with Dillinger](/docs/contributing/)
