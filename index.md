@@ -35,8 +35,3 @@ __Easy__ is recommended for editors with little to no experience in most referen
 
 {: .next }
 Already set up and ready to contribute? Continue to [Contributing](/docs/contributing/index.md)
-
-__Advanced__ is for those who need specifics, either for troubleshooting or clarifying. This is not a step-by-step guide and requires prior knowledge of how to use Jekyll.
-
-
-[Continue with Advanced Guide](csartisan.github.io/docs/docs/posts/Advanced.md){: .btn .btn-outline }
