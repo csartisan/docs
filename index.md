@@ -34,4 +34,4 @@ __Easy__ is recommended for editors with little to no experience in most referen
 [Continue with Getting Started](./docs/getting-started/){: .btn .btn-green }
 
 {: .next }
-Already set up and ready to contribute? Continue to [Contributing](/docs/contributing/index.md)
+Already set up and ready to contribute? Continue to [Contributing](/docs/contributing/)
