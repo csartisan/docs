@@ -15,7 +15,7 @@ Alphabetically, every uncommon term, its definition, aliases, and more.
 |Brand Guidelines |a collection of rules defining the visual and textual tone that guide all content related to a brand.||
 |command line |a classic text interface for your computer.|terminal|
 |contributor |a club member that edits and adds to the website.|Editor (GitHub)|
-|csartisan.org |the club website.||[Go...](https://csartisan.github.io)
+|csartisan.org |the club website.|See [Production](index#l-p)|[Go...](https://csartisan.github.io)
 |Dillinger |a web-based Markdown editor.||
 |drop quotes |large quotation marks prepending a long quote in an article.||
 
@@ -39,7 +39,7 @@ Alphabetically, every uncommon term, its definition, aliases, and more.
 |lightweight |a computer program that is designed to have a small memory footprint and low CPU usage, overall a low usage of system resources.||
 |Markdown |a lightweight markup language that you can use to add formatting elements to plaintext text documents.||see [Markdown](/docs/Advanced/md.md)
 |operating system |the software that supports a computer's basic functions, such as scheduling tasks, executing applications, and controlling peripherals.|platform|ex. macOS, Windows, Linux
-|production |the working version of a site presented publicly. |stable, prod||
+|production |the working version of a site presented publicly. |stable, prod||Antonym: [Staging Site](index#q-u)
 
 # Q-U
 
@@ -47,7 +47,7 @@ Alphabetically, every uncommon term, its definition, aliases, and more.
 |---|---|---|
 |repository |contains all of your project's files and each file's revision history.|repo|see [About Repositories](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwimm6-InsP9AhVtjLAFHeBPDjkQFnoECAsQAQ&url=https%3A%2F%2Fdocs.github.com%2Fen%2Frepositories%2Fcreating-and-managing-repositories%2Fabout-repositories&usg=AOvVaw1A5MgTpqB5FtYvuWsxLwjL) (GitHub)
 |root directory |the top level of the file system of your project.|root||
-|staging site |a temporary, non-official location for all of your changes. |nightly | See "[Production](index#l-p)"
+|staging site |a temporary, non-official location for all of your changes. |nightly |Antonym: [Production](index#l-p)
 |subheaders |a heading of a subdivision (as in an outline)||
 |syntax |a concept in writing code dealing with a very specific set of words and a very specific order to those words when we give the computer instructions.||
 |text file |a kind of computer file that is structured as a sequence of lines of electronic text.|`.txt`|
