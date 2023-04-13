@@ -21,15 +21,15 @@ If you are __not__ a club member, this website is of no use to you, and your dep
 
 ## Preface
 
-Hello editor, developer, or designer! This is the homepage of the documentation for all forms of contributing to [csartisan.org](https://csartisan.org). If you are not a contributing part of the CSArtisan, this guide is of no use to you. These docs are split into multiple paths, to satisfy different levels of understanding.
+Welcome editor, developer, or designer! This is the homepage of the documentation for all forms of contributing to [csartisan.org](csartisan.org). If you are not currently a contributor to CSArtisan, this guide may not be relevant to you. These docs are organized into multiple paths to cater to different levels of understanding.
 
-This guide incorporates important rules from the Brand Guidelines, and while pulling from online guides, it is not a replica of any of them. It is recommended to only use this guide unless troubleshooting is not covered by it.
+This guide incorporates important rules from the Brand Guidelines. While it pulls from online guides, it is unique and not a replica of any of them. We recommend using this guide exclusively- unless troubleshooting is not covered here.
 
 __All software linked is completely safe to use.__
 
 ***
 
-__Easy__ is recommended for editors with little to no experience in most referenced technologies. This is the recommended path for most contributors.  
+If you are a first-time contributor, the "Getting Started" section covers setting up the necessary tools to contribute articles. You will learn what tools are needed, how to install and configure them, and how to use them.
   
 [Continue with Getting Started](./docs/getting-started/){: .btn .btn-green }
 
