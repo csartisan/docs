@@ -142,7 +142,12 @@ Fulfill all required [Front Matter](index#adding-to-the-front-matter).
 #### 1.4
 Add an image that correctly represents the article.
 
-#### 1.5
+#### 1.5.1
+All file names must use dashes to separate each word.
+
+i.e. `interviewing-the-endelman.md`
+
+#### 1.5.2
 Keep all file names relative to the article title.
 
 #### 1.5
@@ -189,6 +194,7 @@ Exporting from Dillinger is even easier than importing.
 2. Select `Export As ↓` button in the upper-right of Dillinger,
 3. Select `Markdown`,
 4. Save file to `/Documents/GitHub/csartisan.github.io/_posts/template.md`, being sure not to change to name of it whilst saving.
+5. Using your system file explorer, rename this new file from `template.md` to the name of your article, ending in `.md`. (i.e. `interviewing-the-endelman.md`)
 
 Congratulations! Your post is now in your local copy of the club website. Now onto the final step, getting your post checked and added to the website.
 
