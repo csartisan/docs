@@ -150,7 +150,7 @@ i.e. `interviewing-the-endelman.md`
 #### 1.5.2
 Keep all file names relative to the article title.
 
-#### 1.5
+#### 1.6
 Do not indent paragraphs.  
 
 ### Section 2 - Markdown Formatting
@@ -194,7 +194,7 @@ Exporting from Dillinger is even easier than importing.
 2. Select `Export As ↓` button in the upper-right of Dillinger,
 3. Select `Markdown`,
 4. Save file to `/Documents/GitHub/csartisan.github.io/_posts/template.md`, being sure not to change to name of it whilst saving.
-5. Using your system file explorer, rename this new file from `template.md` to the name of your article, ending in `.md`. (i.e. `interviewing-the-endelman.md`)
+5. Using your system file explorer, rename this new file from `template.md` to the name of your article, ending in `.md`. (i.e. `interviewing-the-endelman.md`) Refer to section [1.5.1](index#151), [1.5.2](index#152).
 
 Congratulations! Your post is now in your local copy of the club website. Now onto the final step, getting your post checked and added to the website.
 
