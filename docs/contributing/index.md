@@ -62,8 +62,9 @@ EVERY post needs a category, if there isn’t an apparent one, use `[misc]`.
 - `[productions]`
 - `[reviews]`
 - `[opinions]`
-- `[comedy]`
+- `[interviews]`
 - `[essays]`
+- `[updates]`
 - `[misc]`
 
 {: .danger }
