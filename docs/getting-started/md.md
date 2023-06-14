@@ -17,6 +17,7 @@ It doesn’t take long to learn the Markdown syntax, and once you know how to us
 
 Markdown is a form of text file that usually uses the `.md` file format. It uses line-by-line formatting to display rich text. Every page of this very website is written in Markdown. 
 
+{: .important }
 Some great CSArtisan articles that use frequent Markdown formatting are [Interviewing the Endelman](https://csartisan.github.io/interviewing-the-endelman/) for its use of subheaders, and [Art Therapy](https://csartisan.github.io/art-therapy/) for its use of drop quotes. 
 
 #### Flavor
@@ -34,7 +35,7 @@ The rest of this guide is made to guide you through using Dillinger.
 
 |Pros |Cons |
 |-----|-----|
-Very easy to import/export    |  "Flavor" doesn't match csartisan.org's (see [Flavor](index#flavor))
+Very easy to import/export    |  "Flavor" doesn't match csartisan.org's (see [Flavor](md#flavor))
 Web-based                     |  
 No prior experience required  |  
 

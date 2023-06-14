@@ -7,9 +7,6 @@ nav_order: 4
 
 # Finalizing
 
-{: .danger }
-This section of the guide may not have accurate information, but the steps have been tested on Windows 10 and macOS Ventura. Please report any problems. Thank you for contributing.
-
 ## Required Reading
 
 GitHub uses a unique form of version control where users will create [pull requests]() and [commits]().

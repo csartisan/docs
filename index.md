@@ -8,9 +8,6 @@ nav_order: 1
 
 ***
 
-{: .danger }
-This guide is currently unfinished. Information may not be accurate, and links may be broken. Please be patient as we finish this project. Thank you for your understanding.
-
 {: .developers }
 If you are an editor in the Github Team, you have full permission to edit this guide if something is wrong, missing, outdated, etc.  
 
@@ -21,9 +18,9 @@ If you are __not__ a club member, this website is of no use to you, and your dep
 
 ## Preface
 
-Welcome editor, developer, or designer! This is the homepage of the documentation for all forms of contributing to [csartisan.org](csartisan.org). If you are not currently a contributor to CSArtisan, this guide may not be relevant to you. These docs are organized into multiple paths to cater to different levels of understanding.
+Welcome editor, developer, or designer! This is the homepage of the documentation for all forms of contributing to [csartisan.org](csartisan.org). If you are not currently a contributor to CSArtisan, this guide may not be relevant to you. 
 
-This guide incorporates important rules from the Brand Guidelines. While it pulls from online guides, it is unique and not a replica of any of them. We recommend using this guide exclusively- unless troubleshooting is not covered here.
+This guide has been created exclusively by and for CSArtisan club members. While it pulls from online guides, it is unique and not a replica of any of them. We recommend using this guide exclusively- unless troubleshooting is not covered here.
 
 __All software linked is completely safe to use.__
 

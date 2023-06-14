@@ -31,8 +31,6 @@ This is the biggest rule in this guide. Every post requires a corresponding imag
 
 Most new articles should have an image supplied to you by the editor, and many old articles have an accompanying photo. Great, now how do we use those?
 
-
-
 #### Importing an image
 - This may seem tedious, but every image must be 800x600px in size. This is to ensure every image slot is of an equal size when it is published to the site. Trust us, it looks great. This can be done with a photo editor, but if you cannot do it, send it to club IT and we would be happy to format it for you.
 - Make sure the image is a `.jpg` or `.jpeg` file. This is to save server storage. Your changes will not be accepted if the image isn't a JPG/JPEG. Feel free to convert another image type to a JPG/JPEG, as long as it reaches us as one you're good to go.
@@ -124,6 +122,10 @@ If you are transferring old csartisan.wordpress.com posts, the date of the artic
 |`image:` |The full path to your article's image. See "[Images](index#images)" for more info.| `./assets/images/posts/none/1.jpg`
 |`imagecred:` |Credit to image source, in quotation marks. If none, leave __completely blank__, no quotation marks. | `"Kathryn Mueller"`
 |`tags:`  |This should only be edited by a head editor, it defines a post's location on the main page. Leave blank unless instructed otherwise. See ["Tags"](index#tags)| `[ ]`
+
+In the end, your front matter should look something like this:
+
+![](/assets/img/front_matter.png)
 
 ## Content Guidelines
 

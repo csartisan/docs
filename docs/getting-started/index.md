@@ -9,8 +9,6 @@ nav_order: 2
 
 This section of the guide will walk you through installing easy software to create and edit posts. All downloads in these docs are safe. 
 
-
-
 ### "What does section set up?"
 The end goal of this guide is to allow you to create and edit properly formatted Markdown files to be uploaded as posts on [csartisan.org](https://csartisan.org).
 
