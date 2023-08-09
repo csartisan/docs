@@ -37,7 +37,7 @@ Alphabetically, every uncommon term, its definition, aliases, and more.
 |Term|Definition|Aliases|Notes|
 |---|---|---|
 |lightweight |a computer program that is designed to have a small memory footprint and low CPU usage, overall a low usage of system resources.||
-|local|running a program locally means running it on the machine you are sitting at||Antonym: remote
+|local |running a program locally means running it on the machine you are sitting at||Antonym: remote
 |Markdown |a lightweight markup language that you can use to add formatting elements to plaintext text documents.||see [Markdown](/docs/Advanced/md.md)
 |operating system |the software that supports a computer's basic functions, such as scheduling tasks, executing applications, and controlling peripherals.|platform|ex. macOS, Windows, Linux
 |path |a file path specifies the location of a file in a computer's file system structure. |file path||
@@ -49,12 +49,12 @@ Alphabetically, every uncommon term, its definition, aliases, and more.
 |---|---|---|
 |repository |contains all of your project's files and each file's revision history.|repo|see [About Repositories](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwimm6-InsP9AhVtjLAFHeBPDjkQFnoECAsQAQ&url=https%3A%2F%2Fdocs.github.com%2Fen%2Frepositories%2Fcreating-and-managing-repositories%2Fabout-repositories&usg=AOvVaw1A5MgTpqB5FtYvuWsxLwjL) (GitHub)
 |root directory |the top level of the file system of your project.|root||
-|Ruby|a general-purpose, interpreted, object-oriented programming language.||See [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-|server|a supercomputer used to control access to a network, send/receive e-mail, manage print jobs, or host a website.||
+|Ruby |a general-purpose, interpreted, object-oriented programming language.||See [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
+|server |a supercomputer used to control access to a network, send/receive e-mail, manage print jobs, or host a website.||
 |staging site |a temporary, non-official location for all of your changes. |nightly |Antonym: [Production](index#l-p)
 |subheaders |a heading of a subdivision (as in an outline)||
 |syntax |a concept in writing code dealing with a very specific set of words and a very specific order to those words when we give the computer instructions.||
-|terminal|a text-based interface to a computer. It's a window where you can type commands that the computer's operating system executes.|command line|
+|terminal |a text-based interface to a computer. It's a window where you can type commands that the computer's operating system executes.|command line|
 |text file |a kind of computer file that is structured as a sequence of lines of electronic text.|`.txt`|
 
 # V-Z
