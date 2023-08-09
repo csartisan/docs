@@ -12,7 +12,7 @@ nav_order: 1
 If you are an editor in the Github Team, you have full permission to edit this guide if something is wrong, missing, outdated, etc.  
 
 {: .important }
-If you are __not__ a club member, this website is of no use to you, and your departure is encouraged. Thank you for your understanding.
+If you are __not__ a club member, this website is of no use to you, and your departure is encouraged. If you would like to be a club member or a contributor, consider [joining](https://www.remind.com/join/csartis).
 
 ***
 
