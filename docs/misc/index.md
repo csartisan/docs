@@ -2,6 +2,7 @@
 title: Other
 layout: default
 nav_order: 5
+rubyver: 3.1.3
 ---
 
 # Other Contributing
@@ -93,10 +94,10 @@ Jekyll is written in Ruby. To run Jekyll, you need to install Ruby.
     brew install rbenv ruby-build
     ```
 
-1. Install version 3.1.2 of Ruby using `rbenv`
+1. Install version {{ page.rubyver }} of Ruby using `rbenv`
 
     ```bash
-    rbenv install 3.1.2
+    rbenv install {{ page.rubyver }}
     ```
     [Troubleshooting this step](https://github.com/rbenv/rbenv)
 
@@ -105,7 +106,7 @@ Jekyll is written in Ruby. To run Jekyll, you need to install Ruby.
     The result should look something like this:
 
     ```
-    ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [x86_64-darwin22]
+    ruby {{ page.rubyver }}p20 (2022-04-12 revision 4491bb740a) [x86_64-darwin22]
     ```
 
 1. Navigate to your local copy of the website.
@@ -117,7 +118,7 @@ Jekyll is written in Ruby. To run Jekyll, you need to install Ruby.
 1. Set the Ruby version for this project.
 
     ```bash
-    rbenv local 3.1.2
+    rbenv local {{ page.rubyver }}
     ```
 
 1. Install [RubyGems](https://rubygems.org/) using this link: https://rubygems.org/pages/download
