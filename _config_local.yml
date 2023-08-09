@@ -10,7 +10,7 @@ baseurl:
 logo: "assets/img/logo.png"
 
 aux_links:
-  Production: https://csartisan.github.io
+  Production: https://csartisan.org
   Github: https://github.com/csartisan
 
 color_scheme: dark
