@@ -6,7 +6,7 @@ theme: just-the-docs
 favicon_ico: "/assets/favicon.ico"
 
 url: https://docs.csartisan.org/
-baseurl: 
+baseurl:
 logo: "assets/img/logo.png"
 
 aux_links:
@@ -24,6 +24,9 @@ callouts:
     color: blue
   important:
     title: 
+    color: yellow
+  tip:
+    title: Tip 💡 
     color: yellow
   next:
     title: 

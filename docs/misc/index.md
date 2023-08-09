@@ -76,6 +76,9 @@ To install Jekyll, the following utilities are required:
 - RubyGems
 - GCC and Make (Should already be installed. Check with `gcc -v`, `g++ -v`, and `make -v`)
 
+{: .tip }
+You can copy a command by pressing the clipboard button on the right side of any code block in this guide.
+
 ### Ruby
 
 Jekyll is written in Ruby. To run Jekyll, you need to install Ruby.
@@ -94,14 +97,14 @@ Jekyll is written in Ruby. To run Jekyll, you need to install Ruby.
     brew install rbenv ruby-build
     ```
 
-1. Install version {{ page.rubyver }} of Ruby using `rbenv`
+2. Install version {{ page.rubyver }} of Ruby using `rbenv`
 
     ```bash
     rbenv install {{ page.rubyver }}
     ```
     [Troubleshooting this step](https://github.com/rbenv/rbenv)
 
-1. Check that the installation was successful with `ruby -v`
+3. Check that the installation was successful with `ruby -v`
 
     The result should look something like this:
 
@@ -109,19 +112,19 @@ Jekyll is written in Ruby. To run Jekyll, you need to install Ruby.
     ruby {{ page.rubyver }}p20 (2022-04-12 revision 4491bb740a) [x86_64-darwin22]
     ```
 
-1. Navigate to your local copy of the website.
+4. Navigate to your local copy of the website.
 
     ```bash
     cd /Documents/GitHub/csartisan.github.io/
     ```
 
-1. Set the Ruby version for this project.
+5. Set the Ruby version for this project.
 
     ```bash
     rbenv local {{ page.rubyver }}
     ```
 
-1. Install [RubyGems](https://rubygems.org/) using this link: [https://rubygems.org/pages/download](https://rubygems.org/pages/download)
+6. Install [RubyGems](https://rubygems.org/) using this link: [https://rubygems.org/pages/download](https://rubygems.org/pages/download)
 
 Congratulations! You've successfully installed and set up Ruby 3.1.2 and RubyGem in your local copy!
 

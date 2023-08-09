@@ -25,6 +25,9 @@ callouts:
   important:
     title: 
     color: yellow
+  tip:
+    title: Tip 💡 
+    color: yellow
   next:
     title: 
     color: green
