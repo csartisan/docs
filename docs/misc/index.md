@@ -166,7 +166,7 @@ Congratulations! You have successfully started a live server of [csartisan.org](
 
 While running, you can see your site by going to [http://127.0.0.1:4000](http://127.0.0.1:4000). Now, when you change anything in the code of your local copy, this site will update with your changes.
 
-You can repeat this step whenever you like. Remember to keep the `rbenv` active
+You can repeat this step whenever you like. Remember to keep the `rbenv` active before you start it up. This should happen by default.
 
 {: .important }
 To end your server, simply open your terminal and press `^C` or `control + C` on your keyboard.
