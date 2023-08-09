@@ -58,7 +58,7 @@ This section will install and set up:
 - [Ruby](https://www.ruby-lang.org/en/downloads/) (& RubyGems)
 - [Jekyll](https://jekyllrb.com/)
 - [Bundler](https://jekyllrb.com/docs/ruby-101/#bundler)
-- GCC & Make
+- Your local server
 
 ##### Requirements
 1. A local copy of csartisan.org. (See [Getting Started](/docs/getting-started))
@@ -73,7 +73,7 @@ Jekyll & all of Jekyll's requirements. (See Jekyll's [Installation Requirements]
 To install Jekyll, the following utilities are required:
 - [Ruby](https://www.ruby-lang.org/en/downloads/) 2.5.0+
 - RubyGems
-- GCC and Make
+- GCC and Make (Should already be installed. Check with `gcc -v`, `g++ -v`, and `make -v`)
 
 ### Ruby
 
@@ -162,5 +162,13 @@ Congratulations! You have successfully started a live server of [csartisan.org](
 
 While running, you can see your site by going to [http://127.0.0.1:4000](http://127.0.0.1:4000). Now, when you change anything in the code of your local copy, this site will update with your changes.
 
+You can repeat this step whenever you like. Remember to keep the `rbenv` active
+
 {: .important }
 To end your server, simply open your terminal and press `^C` or `control + C` on your keyboard.
+
+#### All Troubleshooting
+- Jekyll [Troubleshooting](https://jekyllrb.com/docs/troubleshooting/) and [Docs](https://jekyllrb.com/docs/)
+    - [Bundler](https://jekyllrb.com/docs/ruby-101/#bundler)
+- Ruby ([in terms of Jekyll](https://jekyllrb.com/docs/ruby-101/#bundler), or [more generally](https://www.ruby-lang.org/en/).)
+    - [rbenv](https://github.com/rbenv/rbenv)
