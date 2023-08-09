@@ -54,7 +54,7 @@ Alphabetically, every uncommon term, its definition, aliases, and more.
 |staging site |a temporary, non-official location for all of your changes. |nightly |Antonym: [Production](index#l-p)
 |subheaders |a heading of a subdivision (as in an outline)||
 |syntax |a concept in writing code dealing with a very specific set of words and a very specific order to those words when we give the computer instructions.||
-|terminal|a text-based interface to a computer. It's a window where you can type commands that the computer's operating system executes.||
+|terminal|a text-based interface to a computer. It's a window where you can type commands that the computer's operating system executes.|command line|
 |text file |a kind of computer file that is structured as a sequence of lines of electronic text.|`.txt`|
 
 # V-Z
