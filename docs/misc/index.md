@@ -67,8 +67,6 @@ This section will install and set up:
 3. macOS 11.0.0 or higher.
 4. [Homebrew](https://brew.sh/) is installed.
 
-Jekyll & all of Jekyll's requirements. (See Jekyll's [Installation Requirements](https://jekyllrb.com/docs/installation/#requirements) and [Installation Guide (macOS)](https://jekyllrb.com/docs/installation/macos/))
-
 [Jekyll](https://jekyllrb.com/) is a static site generator. It takes text written in Markdown and uses layouts (templates) to create a static website. You can tweak the site’s look and feel, URLs, the data displayed on the page, and much more. 
 
 To install Jekyll, the following utilities are required:
