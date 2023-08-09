@@ -121,7 +121,7 @@ Jekyll is written in Ruby. To run Jekyll, you need to install Ruby.
     rbenv local {{ page.rubyver }}
     ```
 
-1. Install [RubyGems](https://rubygems.org/) using this link: https://rubygems.org/pages/download
+1. Install [RubyGems](https://rubygems.org/) using this link: [https://rubygems.org/pages/download](https://rubygems.org/pages/download)
 
 Congratulations! You've successfully installed and set up Ruby 3.1.2 and RubyGem in your local copy!
 
