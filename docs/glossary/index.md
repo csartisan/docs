@@ -13,10 +13,13 @@ Alphabetically, every uncommon term, its definition, aliases, and more.
 |Term|Definition|Aliases|Notes|
 |---|---|---|
 |Brand Guidelines |a collection of rules defining the visual and textual tone that guide all content related to a brand.||
+|clone |a copy of a [repository](/docs/glossary/index.html#q-u) from GitHub.com to your local machine.|local copy|
 |command line |a classic text interface for your computer.|terminal, CLI|
+|container |isolated environments that contain all the necessary files and libraries to run an application. ||See [Docker](/docs/misc/docker.html#setting-up-docker)
 |contributor |a club member that edits and adds to the website.|Editor (GitHub)|
 |csartisan.org |the club website.|See [Production](index#l-p)|[Go...](https://csartisan.github.io)
 |Dillinger |a web-based Markdown editor.||
+|Docker |a tool we use to host local clones of the website||See [Other Contributing](/docs/misc/)
 |drop quotes |large quotation marks prepending a long quote in an article.||
 
 # E-K
