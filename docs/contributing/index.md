@@ -32,7 +32,7 @@ This is the biggest rule in this guide. Every post requires a corresponding imag
 Most new articles should have an image supplied to you by the editor, and many old articles have an accompanying photo. Great, now how do we use those?
 
 #### Importing an image
-- This may seem tedious, but every image must be 800x600px in size. This is to ensure every image slot is of an equal size when it is published to the site. Trust us, it looks great. This can be done with a photo editor, but if you cannot do it, send it to club IT and we would be happy to format it for you.
+- This may seem tedious, but every image must be `800x600px` in size. This is to ensure every image slot is of an equal size when it is published to the site. Trust us, it looks great. This can be done with a photo editor, but if you cannot do it, send it to club IT and we would be happy to format it for you.
 - Make sure the image is a `.jpg` or `.jpeg` file. This is to save server storage. Your changes will not be accepted if the image isn't a JPG/JPEG. Feel free to convert another image type to a JPG/JPEG, as long as it reaches us as one you're good to go.
 - Take the image and move it to `/Documents/GitHub/csartisan.github.io/assets/images/posts`.
 - Rename it to the title of the corresponding post. (ex. `art-therapy.jpg`)
@@ -66,11 +66,11 @@ EVERY post needs a category, if there isn’t an apparent one, use `[misc]`.
 - `[misc]`
 
 {: .danger }
-DO NOT capitalize the `category:` input. This will separate it into a separate, identically named category.
+DO NOT capitalize the `category:` input. This will separate it into a separate, identically named category. (i.e. `[Events]`, `[Productions]`.)
 
 ### Tags
 
-Tags will define how the back-end handles posts’ appearances. For example, adding `[ sticky ]` to a post makes the post, regardless of release date, appear as a large card just below the latest posts. 
+Tags will define how the back-end handles posts’ appearances. For example, adding `[ sticky ]` to a post makes the post, regardless of release date, appear as a large card (or "jumbotron" as its formally referred to) just below the latest posts. 
 
 |Tag     |Function|
 |-------:|:-------|
@@ -102,14 +102,19 @@ Every post must use the following format:
 
 `YEAR-MONTH-DAY-title.md`
 
-Where `YEAR` is a four-digit number (i.e. 2023), `MONTH` and `DAY` are two-digit numbers. `title` is where the title of your article will go. This isn't the title that will be seen on the website, instead, it is the title that appears in the URL (ex. `csartisan.github.io/art-therapy/`). Try to keep this as close to the actual title as possible.
+Where `YEAR` is a four-digit number (i.e. 2023), `MONTH` and `DAY` are two-digit numbers. `title` is where the title of your article will go. This isn't the title that will be seen on the website, instead, it is the title that appears in the URL (ex. `csartisan.org/art-therapy/`). Try to keep this as close to the actual title as possible.
 
 Ex: `2022-12-16-art-therapy.md`
 
 Make sure to get the date correct, because this is the only spot to do so.
 
+#### Queueing a release
+
+If you have a post that needs to be released in the future, you may put a future date in the file name and the post will release automatially on that day.
+
 {: .important }
 If you are transferring old csartisan.wordpress.com posts, the date of the article will prepend the PDF viewer. It is expected that these old articles are set to the date of the issue release.
+
 
 ### Adding to the Front Matter
 
@@ -137,7 +142,7 @@ This is a very important step. Although many things may be up to personal interp
 Do not edit any original content in the article.
 
 #### 1.2
-Keep the general structure of the article.
+Retain the general structure of the article.
 
 #### 1.3
 Fulfill all required [Front Matter](index#adding-to-the-front-matter).
@@ -193,12 +198,12 @@ Do not add credits to the author at the end of the article. This is done automat
 
 Exporting from Dillinger is even easier than importing. 
 
-1. Ensure that your document is finished and follow the rules from [Contributing](dillinger#contributing),
-2. Select `Export As ↓` button in the upper-right of Dillinger,
-3. Select `Markdown`,
-4. Save file to `/Documents/GitHub/csartisan.github.io/_posts/template.md`, being sure not to change to name of it whilst saving.
-5. Using your system file explorer, rename this new file from `template.md` to the name of your article, ending in `.md`. (i.e. `interviewing-the-endelman.md`) Refer to sections [1.5.1](index#151), [1.5.2](index#152).
-
+1. Using the "Document Title" input at the top of your Dillinger page, rename this new file from `template.md` to the name of your article, ending in `.md`. (i.e. `interviewing-the-endelman.md`) Refer to sections [1.5.1](index#151), [1.5.2](index#152).
+1. Ensure that your document is finished and that it follows the rules from [Contributing](dillinger#contributing),
+1. Select `Export As ↓` button in the upper-right of Dillinger,
+1. Select `Markdown`,
+1. Save file to `/Documents/GitHub/csartisan.github.io/_posts/`
+   
 Congratulations! Your post is now in your local copy of the club website. Now onto the final step, getting your post checked and added to the website.
 
 {: .next }

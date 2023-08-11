@@ -31,3 +31,6 @@ callouts:
   next:
     title: 
     color: green
+  report:
+    title:
+    color: red

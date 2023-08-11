@@ -84,10 +84,13 @@ Accessing the files is easy. In a file explorer such as Finder, go to the follow
 
 |macOS|Windows|
 |---|---|
-|`/Users/[USERNAME]/Documents/GitHub/csartisan.github.io/` | `- C:\Users\[USERNAME]\Documents\GitHub\csartisan.github.io` |
+|`~/Documents/GitHub/csartisan.github.io/` | `C:\Users\[USERNAME]\Documents\GitHub\csartisan.github.io` |
 
 {: .important }
 These paths are the default. The rest of the guide uses these paths, so move them at your own risk.
+
+{: .report }
+If there was an error in this bug that you cannot troubleshoot yourself, please visit the [Issues](https://github.com/csartisan/docs/issues) page for these Docs.
 
 Making changes to these folders won't change the website just yet, but it is recommended not to change anything right now.
 

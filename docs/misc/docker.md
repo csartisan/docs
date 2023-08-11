@@ -70,3 +70,6 @@ This will result in what looks like the CSArtisan website. This is the website t
 
 {: .tip }
 You can end this process at anytime by pressing `ctrl + C`.
+
+{: .report }
+If there was an error in this bug that you cannot troubleshoot yourself, please visit the [Issues](https://github.com/csartisan/docs/issues) page for these Docs.
