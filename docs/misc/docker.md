@@ -1,9 +1,9 @@
 ---
-title: Docker
+title: Local Hosting
 layout: default
 parent: Other
 has_children: no
-nav_order: 1
+nav_order: 2
 ---
 
 # Hosting the site locally with Docker
