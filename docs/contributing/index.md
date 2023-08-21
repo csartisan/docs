@@ -7,7 +7,7 @@ nav_order: 3
 
 # Contributing
 
-This section will walk you through uploading an article as a Markdown file to csartisan.org. If you have not yet done so, follow [Getting Started](/docs/getting-started/) to prepare for these steps. It's only necessary to do this once.
+This section will walk you through uploading an article as a Markdown file to csartisan.org. If you have not yet done so, follow [Getting Started](/docs/getting-started/) to prepare for these steps.
 
 {: .important }
 This section of the guide has specific instructions based on the interface of [Dillinger](https://dillinger.io).
@@ -34,7 +34,7 @@ Most new articles should have an image supplied to you by the editor, and many o
 #### Importing an image
 - This may seem tedious, but every image must be `800x600px` in size. This is to ensure every image slot is of an equal size when it is published to the site. Trust us, it looks great. This can be done with a photo editor, but if you cannot do it, send it to club IT and we would be happy to format it for you.
 - Make sure the image is a `.jpg` or `.jpeg` file. This is to save server storage. Your changes will not be accepted if the image isn't a JPG/JPEG. Feel free to convert another image type to a JPG/JPEG, as long as it reaches us as one you're good to go.
-- Take the image and move it to `/Documents/GitHub/csartisan.github.io/assets/images/posts`.
+- Take the image and move it to `/Documents/GitHub/csartisan.github.io/assets/images/posts/`.
 - Rename it to the title of the corresponding post. (ex. `art-therapy.jpg`)
 You will use this image name in a little bit.
 
@@ -145,21 +145,38 @@ Do not edit any original content in the article.
 Retain the general structure of the article.
 
 #### 1.3
+Do not indent paragraphs.  
+
+#### 1.4.1
 Fulfill all required [Front Matter](index#adding-to-the-front-matter).
 
-#### 1.4
+#### 1.4.2
+Enclose all (non-bracketed) front matter values with quotation marks. (i.e. `"Octavia Roberts"`, NOT `Octavia Roberts`.)
+
+#### 1.5
 Add an image that correctly represents the article.
 
-#### 1.5.1
+#### 1.6.1
+Every post must use the following format:
+
+`YEAR-MONTH-DAY-title.md`
+
+Where `YEAR` is a four-digit number (i.e. 2023), `MONTH` and `DAY` are two-digit numbers. `title` is where the title of your article will go. This isn't the title that will be seen on the website, instead, it is the title that appears in the URL (ex. `csartisan.org/art-therapy/`). Try to keep this as close to the actual title as possible.
+
+Ex: `2022-12-16-art-therapy.md`
+
+Make sure to get the date correct, because this is the only spot to do so.
+
+#### 1.6.2
 All file names must use dashes to separate each word.
 
-i.e. `interviewing-the-endelman.md`
+i.e. `2022-12-12-interviewing-the-endelman.md`
 
-#### 1.5.2
+#### 1.6.3
+Remove all special characters from the article title when naming your file. (Ex. !@#$%^&*() and Spaces.)
+
+#### 1.6.4
 Keep all file names relative to the article title.
-
-#### 1.6
-Do not indent paragraphs.  
 
 ### Section 2 - Markdown Formatting
 
@@ -194,11 +211,14 @@ Do not add credits to the author at the end of the article. This is done automat
 
 ***
 
+{: .danger }
+Failure to meet these requirements will result in your article not being added to the website. Your changes will be saved, and an Administrator can either fix these issues or send the article back for you to edit. This is done through GitHub.
+
 ## Exporting
 
 Exporting from Dillinger is even easier than importing. 
 
-1. Using the "Document Title" input at the top of your Dillinger page, rename this new file from `template.md` to the name of your article, ending in `.md`. (i.e. `interviewing-the-endelman.md`) Refer to sections [1.5.1](index#151), [1.5.2](index#152).
+1. Using the "Document Title" input at the top of your Dillinger page, rename this new file from `template.md` to the name of your article, ending in `.md`. (i.e. `interviewing-the-endelman.md`) Refer to sections [1.5.1](index#151), [1.5.2](index#152), and [1.5.3](index#153).
 1. Ensure that your document is finished and that it follows the rules from [Contributing](dillinger#contributing),
 1. Select `Export As ↓` button in the upper-right of Dillinger,
 1. Select `Markdown`,

@@ -27,11 +27,11 @@ First, go to [https://github.com](https://github.com) and press `Sign Up` in the
 >
 > If your browser isn't the issue, it may have to do with the power of your computer. If you believe this is the case, try making an account with another device and simply logging in on your target device.
 
-##### GitHub Team
+## Joining the GitHub Team
 
-To make any contributions to the website you must first be in the [GitHub Team](https://github.com/csartisan). Please contact club IT to be added to the team, where you can edit both [csartisan.org](https://csartisan.github.io) and these docs.
+To make any contributions to the website you must first be in the [GitHub Team](https://github.com/csartisan). After you have made your account, message the Club IT *(Call/Text: [{{ site.techcontact }}](tel:{{ site.techcontact }}))* with your username or email to be added to the team promptly.
 
-After IT has received your request, you will be sent an invitation to join the team. You can view this invitation by going to [github.com/csartisan](https://github.com/csartisan) then pressing the `View Invitation` button upper-right and fulfilling its steps.
+After IT has received your request, you will be sent an invitation to join the team. You can accept this invitation by going to [github.com/csartisan](https://github.com/csartisan) then pressing the `View Invitation` button upper-right and fulfilling its steps.
 
 After joining, your profile picture should appear under the "People" section in the right sidebar.
 
