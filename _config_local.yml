@@ -15,6 +15,12 @@ aux_links:
 
 color_scheme: dark
 
+# Contacts
+techcontact: 6267108965
+manager: 
+editor:
+advisor: 
+
 callouts:
   danger:
     title: Warning!

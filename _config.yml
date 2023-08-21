@@ -15,6 +15,13 @@ aux_links:
 
 color_scheme: dark
 
+# Contacts
+# Phone links cannot contain spaces or dashes. Ex. 1234567890, NOT (123)-456-7890.
+techcontact: 6267108965
+manager: 
+editor:
+advisor: 
+
 callouts:
   danger:
     title: Warning!
