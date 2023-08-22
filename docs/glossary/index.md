@@ -42,6 +42,7 @@ Alphabetically, every uncommon term, its definition, aliases, and more.
 |lightweight |a computer program that is designed to have a small memory footprint and low CPU usage, overall a low usage of system resources.||
 |local |running a program locally means running it on the machine you are sitting at||Antonym: remote
 |Markdown |a lightweight markup language that you can use to add formatting elements to plaintext text documents.||see [Markdown](/docs/Advanced/md.md)
+|metadata|data that provides information about other data, but not the content of the data.|front matter|
 |operating system |the software that supports a computer's basic functions, such as scheduling tasks, executing applications, and controlling peripherals.|platform|ex. macOS, Windows, Linux
 |path |a file path specifies the location of a file in a computer's file system structure. |file path||
 |production |the working version of a site presented publicly. |stable, prod|Antonym: [Staging Site](index#q-u)|
