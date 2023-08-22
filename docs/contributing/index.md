@@ -14,7 +14,7 @@ This section of the guide has specific instructions based on the interface of [D
 
 ## Required Reading
 
-This section will briefly touch on important vocabulary important to know before contributing. Some terms will have a link to more info on them, and all terms will be included in the site [Glossary](/docs/glossary/). 
+This section will briefly touch on important vocabulary important to know before contributing. Some terms will have a link to more info on them, and all _odd_ terms will be included in the site [Glossary](/docs/glossary/). 
 
 ### Front Matter
 Front Matter acts like metadata leading every post. This is essential to the post being correctly rendered on the website. It is lead and trailed by three dashes `---`. This is to separate it from the rest of the text and hide it from being rendered. Front Matter contains information that the website uses to fill out things like title, author name, category, and more.
@@ -32,9 +32,9 @@ This is the biggest rule in this guide. Every post requires a corresponding imag
 Most new articles should have an image supplied to you by the editor, and many old articles have an accompanying photo. Great, now how do we use those?
 
 #### Importing an image
-- This may seem tedious, but every image must be `800x600px` in size. This is to ensure every image slot is of an equal size when it is published to the site. Trust us, it looks great. This can be done with a photo editor, but if you cannot do it, send it to club IT and we would be happy to format it for you.
+- This may seem tedious, but every image must be `800x600px` in size. This is to ensure every image slot is of an equal size when it is published to the site. Trust us, it looks great. This can be done with a photo editor, but if you cannot do it, send it to Club IT *(Call/Text: [{{ site.techcontact }}](tel:{{ site.techcontact }}))* and we would be happy to format it for you.
 - Make sure the image is a `.jpg` or `.jpeg` file. This is to save server storage. Your changes will not be accepted if the image isn't a JPG/JPEG. Feel free to convert another image type to a JPG/JPEG, as long as it reaches us as one you're good to go.
-- Take the image and move it to `/Documents/GitHub/csartisan.github.io/assets/images/posts/`.
+- Move your article image to `/Documents/GitHub/csartisan.github.io/assets/images/posts/`.
 - Rename it to the title of the corresponding post. (ex. `art-therapy.jpg`)
 You will use this image name in a little bit.
 
@@ -50,6 +50,8 @@ Every file is numbered from 1-10. So to use them, enter one of the following fil
 `./assets/images/posts/none/10.jpg`  
 
 These images are all colorful gradients that make posts look great even when they dont have photo of their own! Be careful though, too many articles with the same filler image may look bad, so be sure to change the image up when you're contributing lots of articles at a time.
+
+![All filler images, numbered](../../assets/img/fillers.jpg)
 
 ### Categories
 
@@ -79,6 +81,90 @@ Tags will define how the back-end handles posts’ appearances. For example, add
 
 {: .danger }
 When contributing, do not edit the `tags:` front matter space unless instructed by a head editor. This is not for all contributions and is only for special articles.
+
+***
+
+## Formatting Guidelines
+
+This is a very important step. Although many things may be up to personal interpretation, these guidelines will instruct choices that you will have to make when formatting new articles. 
+
+{: .danger }
+Failure to meet these requirements will result in your article not being added to the website. Your changes will be saved, and an Administrator can either fix these issues or send the article back for you to edit. This is done through GitHub.
+
+### Section 1 - Importants
+
+#### 1.1
+Do not edit any original content in the article.
+
+#### 1.2
+Retain the general structure of the article.
+
+#### 1.3
+Do not indent paragraphs.  
+
+### Section 2 - Metadata
+
+#### 2.1.1
+Fulfill all required [Front Matter](index#adding-to-the-front-matter).
+
+#### 2.1.2
+Enclose all (non-bracketed) front matter values with quotation marks. (i.e. `"Octavia Roberts"`, NOT `Octavia Roberts`.)
+
+#### 2.2
+Add an image that correctly represents the article.
+
+#### 2.3.1
+Every file name must use the following format:
+
+`YEAR-MONTH-DAY-title.md`
+
+Where `YEAR` is a four-digit number (i.e. 2023), `MONTH` and `DAY` are two-digit numbers. `title` is where the title of your article will go. This isn't the title that will be seen on the website, instead, it is the title that appears in the URL (ex. `csartisan.org/art-therapy/`). Try to keep this as close to the actual title as possible.
+
+Ex: `2022-12-16-art-therapy.md`
+
+Make sure to get the date correct, because this is the only spot to do so.
+
+#### 2.3.2
+All file names must use dashes to separate each word.
+
+i.e. `2022-12-12-interviewing-the-endelman.md`
+
+#### 2.3.3
+Remove all special characters from the article title when naming your file. (Ex. !@#$%^&*() and Spaces.)
+
+#### 2.3.4
+Keep all file names relative to the article title.
+
+### Section 3 - Markdown Formatting
+
+#### 3.1
+Keep all paragraphs in body form. (Unformatted)
+
+#### 3.2
+Separate new paragraphs by a full line break. Markdown doesn't make new paragraphs unless they are separated by a full line break. See below.
+
+![](/assets/img/markdownlinebreakartisan.png)
+
+#### 3.3 
+Interviews from the WordPress with questions as headers should use `h3` headers.
+
+#### 3.4
+Remove every __first__ quotation mark from a quote and replace them with a `>`. See below.
+
+<div class="code-example" markdown="1">
+
+> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged." 
+
+</div>
+```markdown
+> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+```
+This will render on the website as a large drop quotation. See below.
+
+![](/assets/img/dropquoteartisan.png)
+
+#### 2.5
+Do not add credits to the author at the end of the article. This is done automatically by the website from the Front Matter.
 
 ***
 
@@ -131,88 +217,6 @@ If you are transferring old csartisan.wordpress.com posts, the date of the artic
 In the end, your front matter should look something like this:
 
 ![](/assets/img/front_matter.png)
-
-## Content Guidelines
-
-This is a very important step. Although many things may be up to personal interpretation, these guidelines will instruct choices that you will have to make when formatting new articles. 
-
-### Section 1 - Importants
-
-#### 1.1
-Do not edit any original content in the article.
-
-#### 1.2
-Retain the general structure of the article.
-
-#### 1.3
-Do not indent paragraphs.  
-
-#### 1.4.1
-Fulfill all required [Front Matter](index#adding-to-the-front-matter).
-
-#### 1.4.2
-Enclose all (non-bracketed) front matter values with quotation marks. (i.e. `"Octavia Roberts"`, NOT `Octavia Roberts`.)
-
-#### 1.5
-Add an image that correctly represents the article.
-
-#### 1.6.1
-Every post must use the following format:
-
-`YEAR-MONTH-DAY-title.md`
-
-Where `YEAR` is a four-digit number (i.e. 2023), `MONTH` and `DAY` are two-digit numbers. `title` is where the title of your article will go. This isn't the title that will be seen on the website, instead, it is the title that appears in the URL (ex. `csartisan.org/art-therapy/`). Try to keep this as close to the actual title as possible.
-
-Ex: `2022-12-16-art-therapy.md`
-
-Make sure to get the date correct, because this is the only spot to do so.
-
-#### 1.6.2
-All file names must use dashes to separate each word.
-
-i.e. `2022-12-12-interviewing-the-endelman.md`
-
-#### 1.6.3
-Remove all special characters from the article title when naming your file. (Ex. !@#$%^&*() and Spaces.)
-
-#### 1.6.4
-Keep all file names relative to the article title.
-
-### Section 2 - Markdown Formatting
-
-#### 2.1
-Keep all paragraphs in body form. (Unformatted)
-
-#### 2.2
-Separate new paragraphs by a full line break. Markdown doesn't make new paragraphs unless they are separated by a full line break. See below.
-
-![](/assets/img/markdownlinebreakartisan.png)
-
-#### 2.3 
-Interviews from the WordPress with questions as headers should use `h3` headers.
-
-#### 2.4
-Remove every __first__ quotation mark from a quote and replace them with a `>`. See below.
-
-<div class="code-example" markdown="1">
-
-> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged." 
-
-</div>
-```markdown
-> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-```
-This will render on the website as a large drop quotation. See below.
-
-![](/assets/img/dropquoteartisan.png)
-
-#### 2.5
-Do not add credits to the author at the end of the article. This is done automatically by the website from the Front Matter.
-
-***
-
-{: .danger }
-Failure to meet these requirements will result in your article not being added to the website. Your changes will be saved, and an Administrator can either fix these issues or send the article back for you to edit. This is done through GitHub.
 
 ## Exporting
 
